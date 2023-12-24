@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20039876958",
+    "project_id": "prigorod-taxi",
+    "storage_bucket": "prigorod-taxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20039876958:android:6357bcfb8f68e821be8fcf",
+        "android_client_info": {
+          "package_name": "com.avidity.prigorodtaxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEDQDGCOYdg5aUd7eOQQbLr6GgeWTkGPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20039876958:android:c7ec665ac2732614be8fcf",
+        "android_client_info": {
+          "package_name": "com.example.prigorod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEDQDGCOYdg5aUd7eOQQbLr6GgeWTkGPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
